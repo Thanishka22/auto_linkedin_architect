@@ -1,4 +1,4 @@
-AI-Powered LinkedIn Content Engine (n8n)
+### AI-Powered LinkedIn Content Engine (n8n)
 Overview:
 The AI-Powered LinkedIn Content Engine is an end-to-end automation built with n8n that transforms structured inputs into high-quality, publish-ready LinkedIn posts using large language models and event-driven workflows.
 The system continuously monitors a Google Sheet for new or updated content, summarizes source material using Google Gemini, refines it into a professional LinkedIn post format, and publishes it automatically via the LinkedIn API. The workflow is designed to be modular, extensible, and production-ready, demonstrating how modern AI models can be integrated into reliable business automations rather than used in isolation.
